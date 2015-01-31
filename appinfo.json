@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "UofTHacks",
+    "longName": "Munchies",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Munchies",
+    "uuid": "2f439c56-8b32-4728-9d1b-5a83c11dec21",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
